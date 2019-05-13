@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="PISMSem6Lab8:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/PISMSem6Lab8_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="PISMSem6Lab8/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="PISMSem6Lab8" />
+        </element>
+        <element id="directory" name="lib" />
+      </element>
+    </root>
+  </artifact>
+</component>
